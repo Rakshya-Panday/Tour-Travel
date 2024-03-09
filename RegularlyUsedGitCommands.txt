@@ -1,0 +1,14 @@
+This file contains regularly used git commands for this project.
+Anyone can take reference from here and is welcomed for contribution.
+
+## Git Commands:
+-- git clone "url" (for cloning the project to your local computer)
+-- git log(for checking the commit history)
+-- git log --oneline(for checking the commit history in a single line)
+-- git branch(for checking the branch of the project)
+-- git checkout "branch-name"(for checking out the branch)
+-- git status(for checking the status of the project)
+-- git add . (to stage all changes in a directory)
+-- git commit -m "commit message"(to commit the staged changes)
+-- git push origin "branch-name"(for pushing the committed changes to the remote repository)
+// git push (this single command also works as there is only one branch that is master and will be pushed to that branch automatically)
